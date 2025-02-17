@@ -6,7 +6,12 @@
 
 # DP
 
-# 그리디
+
+
+
+# [그리디](https://www.notion.so/518c1c11cce549ae9db8bbd62b8b2525?pvs=4#a13eece1a1fc45e69734d5e7af562793)
+https://www.youtube.com/watch?v=_IZuE7NIeW4
+https://adjh54.tistory.com/212
 
 # 정렬
 
